@@ -9,6 +9,9 @@
 #configration file
 config.py
 
+#database
+*.db
+
 # Session
 Session.vim
 Sessionx.vim
