@@ -8,8 +8,6 @@
 
 #configration file
 config.py
-config.cfg
-cred.py
 
 # Session
 Session.vim
